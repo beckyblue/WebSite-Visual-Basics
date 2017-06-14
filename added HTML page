@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite1/indexhtml.html", "http://localhost:8080/indexhtml.html", "{AB0A44CE-4F49-4C75-9D6D-B6B98F0BA0E6}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/indexhtml.html"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\My Web Sites\WebSite1\indexhtml.html\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\indexhtml.html\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/indexhtml.html"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\My Web Sites\WebSite1\indexhtml.html\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\indexhtml.html\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\My Web Sites\WebSite1\indexhtml.html\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0A44CE-4F49-4C75-9D6D-B6B98F0BA0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0A44CE-4F49-4C75-9D6D-B6B98F0BA0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
